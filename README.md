@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Arek, currently in my final year at the University of Nottingham
 
-- 🔭 I’m currently working on my [website](https://arekbauer.com)
+- 🔭 I’m currently working on a react native project!
 - 🌱 Looking to learn about the DevOps sides of things - Docker, Kubernetes etc...
 
 <h3 align="left">Languages and Tools:</h3>
