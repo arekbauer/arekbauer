@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Arek, currently in my final year at the University of Nottingham
 
-- 🔭 I’m currently mainly working on Kotlin for my dissertation - The Gamification of Book Reading
+- 🔭 I’m currently mainly working on my dissertation - The Gamification of Book Reading _(Kotlin, Jetpack Compose, Firebase, MVVM)_
 - 🌱 Looking to learn about the DevOps sides of things - Docker, Kubernetes etc...
 
 <h3 align="left">Languages and Tools:</h3>
