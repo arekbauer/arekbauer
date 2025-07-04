@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Arek, currently in my final year at the University of Nottingham
+My name is Arek, a Comp Sci graduate from the University of Nottingham
 
 - 🔭 I’m currently exploring creating Android apps - _(Kotlin & Jetpack Compose)_
 - 🌱 Looking to learn about the DevOps sides of things - Docker, Kubernetes etc...
