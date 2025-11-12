@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Arek, a Comp Sci graduate from the University of Nottingham
 
-- 🔭 I’m currently exploring creating Android apps - _(Kotlin & Jetpack Compose)_
+- 🔭 I’m currently exploring creating apps using KMP _(Kotlin Multiplatform)_
 - 🌱 Looking to learn about the DevOps sides of things - Docker, Kubernetes etc...
 
 <h3 align="left">Languages and Tools:</h3>
