@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently exploring creating apps using KMP _(Kotlin Multiplatform)_
+🔭 I’m currently exploring creating apps using KMP _(Kotlin Multiplatform)_
 
 <h3 style="margin-bottom: 0;">Languages</h3>
   <p>
